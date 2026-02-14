@@ -40,9 +40,6 @@ export default function Footer() {
       <div className="border-t border-zinc-900">
         <div className="mx-auto max-w-6xl px-4 py-5 text-xs text-zinc-500 flex flex-col md:flex-row gap-2 md:items-center md:justify-between">
           <p>© {new Date().getFullYear()} KorvTech. Todos os direitos reservados.</p>
-          <p>
-            Feito com <span className="text-violet-500">❤</span> e código limpo.
-          </p>
         </div>
       </div>
     </footer>
