@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 export default function Footer() {
   return (
     <footer className="border-t border-zinc-900 mt-10">
@@ -12,19 +13,13 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-wrap gap-3">
-          <a
-            className="rounded-xl border border-zinc-800 px-4 py-2 text-sm font-semibold text-zinc-200 hover:bg-zinc-900 transition"
-            href="/servicos"
-          >
-            Serviços
-          </a>
+          <Link className="rounded-xl border border-zinc-800 px-4 py-2 text-sm font-semibold text-zinc-200 hover:bg-zinc-900 transition" to="/servicos">
+  Serviços
+</Link>
 
-          <a
-            className="rounded-xl border border-zinc-800 px-4 py-2 text-sm font-semibold text-zinc-200 hover:bg-zinc-900 transition"
-            href="/contato"
-          >
-            Contato
-          </a>
+         <Link className="rounded-xl border border-zinc-800 px-4 py-2 text-sm font-semibold text-zinc-200 hover:bg-zinc-900 transition" to="/contato">
+  Contato
+</Link>
 
           <a
             className="rounded-xl bg-violet-600 px-4 py-2 text-sm font-bold text-white hover:bg-violet-500 transition"
