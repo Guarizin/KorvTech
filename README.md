@@ -35,10 +35,10 @@ Projeto de site institucional desenvolvido com foco em responsividade, organiza�
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/SEU-USUARIO/KorvTech.git
+git clone https://github.com/Guarizin/KorvTech.git
 
 # Entrar na pasta
-cd NOME-DO-REPO
+cd KorvTech
 
 # Instalar dependências
 npm install
