@@ -1,16 +1,47 @@
-# React + Vite
+# 🚀 KorvTech – Site Institucional
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de site institucional desenvolvido com foco em responsividade, organização de componentes e publicação em ambiente cloud.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias Utilizadas
 
-## React Compiler
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS3
+- Git & GitHub
+- Deploy na Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Layout 100% responsivo
+- ✅ Estrutura baseada em componentes reutilizáveis
+- ✅ Integração direta com WhatsApp
+- ✅ Navegação otimizada
+- ✅ Estrutura organizada para escalabilidade
+
+---
+
+## 🌐 Acesse o Projeto
+
+🔗 https://korvtech.vercel.app/
+
+---
+
+## ⚙️ Como Rodar o Projeto Localmente
+
+```bash
+# Clonar o repositório
+git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+
+# Entrar na pasta
+cd NOME-DO-REPO
+
+# Instalar dependências
+npm install
+
+# Rodar projeto
+npm run dev
