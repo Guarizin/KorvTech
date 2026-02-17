@@ -35,7 +35,7 @@ Projeto de site institucional desenvolvido com foco em responsividade, organiza√
 
 ```bash
 # Clonar o reposit√≥rio
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+git clone https://github.com/SEU-USUARIO/KorvTech.git
 
 # Entrar na pasta
 cd NOME-DO-REPO
